@@ -1,0 +1,40 @@
+header{
+    background-color: rgb(255, 255, 255);
+}
+.page_img {
+    height: 75px;
+    width: 75px;
+
+}
+.main_page {
+    display: flex;
+    flex-direction : column;
+}
+.Main {
+    margin: auto;
+}
+.data_block  {
+    width: 30rem;
+    height: 10rem;
+   background-color:white;
+   border: 0.2rem solid #00BFFF;
+   border-radius: 0.5rem;
+}
+.image{
+    width:2rem ;
+    height:2rem ;
+}
+.h1 {
+    color:#00BFFF;  
+    text-align: center;
+    text-transform: uppercase;
+}
+.search{
+    font-size: 14px;
+    color: #5a6674;
+    width: 30rem;
+    height: 2.5rem;
+    border: 0.2rem solid #00BFFF;
+    border-radius: 0.5rem;
+    outline: none;
+}
